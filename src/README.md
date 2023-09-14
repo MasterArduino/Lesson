@@ -1,10 +1,2 @@
 Hello
 World
-Ddqdqw
-asdasd
-sdfsef
-adadwwwwwwwww
-ad1111
-12345678
-444444444444444
-asdas
