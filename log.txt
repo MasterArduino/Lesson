@@ -1,0 +1,8 @@
+[2023-11-13 21:35:03] INFO This is an informational message.
+
+[2023-11-13 21:35:03] ERROR This is an error message.
+
+[2023-11-13 21:42:08] INFO Это информационное сообщение.
+
+[2023-11-13 21:42:08] ERROR Это сообщение об ошибке.
+
