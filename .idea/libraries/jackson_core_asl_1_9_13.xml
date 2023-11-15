@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jackson-core-asl-1.9.13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/jackson-core-asl-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jackson-mapper-asl-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jackson-core-2.16.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lombok-1.18.30.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
